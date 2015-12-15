@@ -1,4 +1,4 @@
-﻿EBookSharing Application version 1.0 Dec 14 2015
+EBookSharing Application version 1.0 Dec 14 2015
 
 
 GENERAL USAGE NOTES
@@ -8,7 +8,7 @@ GENERAL USAGE NOTES
 -EBookSharing application is a local Desktop application developed in the Java GUI. Our programm files are located in package ebooksharing1. To let our project run locally , first need to create a JDBC database, as stated in DbConnetor.java file, ( jdbc:derby://localhost:1527/UsersRegistration", "java", "java"), the name of the database is “UsersRegistration”, username is “java”, password is “java”. However, you can change names as you like.  Then  run the CREATE_TABLE to create the tables the project needs in the database.
 
 
--After the application is run a welcome page appears that has login as well as registration section to it. Registered user may sign in with right credentials where as new user can register themselves first before logging in with unique Email address as well as the username. The welcome page consist of other two buttons ‘continue as visitor’ which navigates to the another page with very minimal access feature. The other button ‘exit’ simply exit closes the system. 
+-After the application is run a welcome page appears that has login as well as registration section to it. Registered user may sign in with right credentials where as new user can register themselves first before logging in with unique Email address as well as the username. To register as Super user the system will ask for a special code which we have set it to be “access”. Without that code any body can register only as regular user. The welcome page consist of other two buttons ‘continue as visitor’ which navigates to the another page with very minimal access feature. The other button ‘exit’ simply exit closes the system. 
 
 
 -After the successful sign in and based on the credential to be of super user or regular user the user will be navigated to another page. If super user page opens, it has all the features of the system. If the user are regular user, the regular user page opens that has all the features except super user privileges. 
