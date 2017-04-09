@@ -59,6 +59,13 @@ Installation
 ————————————
 EbookSharing Application is run using the NetBeans IDE. There is no .exe file produced yet. No installation is required. It is simply run by using the source code on IDE.
 
+Demos
+User Registration
+<img src='http://i.imgur.com/4fmMqhm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Sign in
+<img src='http://i.imgur.com/toOzkPd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 EBookSharing Application can be reached at:
 
