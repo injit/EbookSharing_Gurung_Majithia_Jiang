@@ -1,4 +1,4 @@
-EBookSharing Application version 1.0 Dec 14 2015
+# EBookSharing Application version 1.0 Dec 14 2015
 
 
 GENERAL USAGE NOTES
@@ -59,33 +59,32 @@ Installation
 ————————————
 EbookSharing Application is run using the NetBeans IDE. There is no .exe file produced yet. No installation is required. It is simply run by using the source code on IDE.
 
-Demos
-User Registration
+# Demos
+## User Registration
 <img src='http://i.imgur.com/4fmMqhm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-New user signing in 
+## New user signing in 
 
 <img src='http://i.imgur.com/IZqjsto.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Book uploaded by user and getting superuser approval
+## Book uploaded by user and getting superuser approval
 
 <img src='http://i.imgur.com/NMilIdY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Getting message from superuser about book approval
+## Getting message from superuser about book approval
 
 <img src='http://i.imgur.com/FCeMkWq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Sending invitation to share the book
+## Sending invitation to share the book
 
 <img src='http://i.imgur.com/s8uvuXS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-Accepting invitation 
+## Accepting invitation 
 
 <img src='http://i.imgur.com/toOzkPd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-EBookSharing Application can be reached at:
+EBookSharing Application developers can be reached at:
 
 
 Email: injit.gurung@gmail.com, majithiaaditya@gmail.com, susanjiang03@gmail.com
@@ -93,4 +92,4 @@ Email: injit.gurung@gmail.com, majithiaaditya@gmail.com, susanjiang03@gmail.com
 
 
 
-Copy Rigth 2015: All Right Reserved.
+Copy Right 2015: All Right Reserved.
