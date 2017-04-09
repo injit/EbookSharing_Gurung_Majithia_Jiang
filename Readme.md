@@ -63,7 +63,7 @@ Demos
 User Registration
 <img src='http://i.imgur.com/4fmMqhm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Sign in 
+New user signing in 
 
 <img src='http://i.imgur.com/IZqjsto.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
