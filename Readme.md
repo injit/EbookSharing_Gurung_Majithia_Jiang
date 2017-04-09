@@ -67,13 +67,23 @@ Sign in
 
 <img src='http://i.imgur.com/IZqjsto.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Book uploaded by user and getting superuser approval
+
+<img src='http://i.imgur.com/NMilIdY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Getting message from superuser about book approval
+
+<img src='http://i.imgur.com/FCeMkWq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Sending invitation to share the book
+
+<img src='http://i.imgur.com/s8uvuXS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+Accepting invitation 
 
 <img src='http://i.imgur.com/toOzkPd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-Book uploading
-
-<img src='http://i.imgur.com/NMilIdY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 EBookSharing Application can be reached at:
 
