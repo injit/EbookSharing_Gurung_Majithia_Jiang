@@ -63,9 +63,17 @@ Demos
 User Registration
 <img src='http://i.imgur.com/4fmMqhm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Sign in
+Sign in 
+
+<img src='http://i.imgur.com/IZqjsto.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 <img src='http://i.imgur.com/toOzkPd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+Book uploading
+
+<img src='http://i.imgur.com/NMilIdY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 EBookSharing Application can be reached at:
 
